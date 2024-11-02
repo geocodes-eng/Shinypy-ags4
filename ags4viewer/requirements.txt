@@ -1,0 +1,4 @@
+numpy==2.1.2
+pandas==2.2.3
+python-AGS4==1.0.0
+shiny==1.2.0

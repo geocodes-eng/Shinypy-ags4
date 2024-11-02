@@ -1,7 +1,6 @@
 from shiny import App, render, ui, reactive
 from python_ags4 import AGS4
 import pandas as pd
-import io
 
 app_ui = ui.page_sidebar(
     ui.sidebar(
